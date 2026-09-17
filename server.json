@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
-  "name": "io.github.dataleadspro/amazon-product-data",
+  "name": "io.github.DataLeadsPRO/amazon-product-data",
   "description": "Amazon search and product extraction: titles, prices, ASINs, and listings as clean JSON.",
   "version": "1.0.0",
   "repository": {
