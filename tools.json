@@ -1,0 +1,14 @@
+[
+  {
+    "name": "amazon_search",
+    "method": "POST",
+    "path": "/amazon/search",
+    "description": "V1 Amazon Search"
+  },
+  {
+    "name": "amazon_product",
+    "method": "POST",
+    "path": "/amazon/product",
+    "description": "V1 Amazon Product"
+  }
+]
